@@ -1,0 +1,5 @@
+c:\users\jon\documents\visual studio 2015\Projects\lab19\lab19\bin\Debug\lab19.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\lab19\lab19\bin\Debug\lab19.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab19\lab19\bin\Debug\lab19.pdb
+c:\users\jon\documents\visual studio 2015\Projects\lab19\lab19\obj\Debug\lab19.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab19\lab19\obj\Debug\lab19.pdb
